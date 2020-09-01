@@ -1,0 +1,47 @@
+body {
+    background: lightskyblue;
+    font-family: 'Lexend Peta', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh
+}
+
+main {
+    background: red;
+    border-radius: 10px;
+    width: 375px;
+    text-align: center;
+}
+
+.top {
+    
+    height: 120px;
+    color: white;
+}
+
+.middle {   
+    height: 115px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.catja {
+    font-size: 4rem;
+    font-family: cursive;
+}
+
+.bottom {
+    
+    height: 20px;
+}
+
+.hello {
+    font-size: 4rem;
+}
+.name {
+    font-size: 2rem;
+    line-height: 1;
+}
