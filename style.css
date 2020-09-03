@@ -4,7 +4,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 main {
@@ -28,7 +29,7 @@ main {
     align-items: center;
 }
 
-.catja {
+#name {
     font-size: 4rem;
     font-family: cursive;
 }
@@ -41,7 +42,11 @@ main {
 .hello {
     font-size: 4rem;
 }
-.name {
+.myNameIs {
     font-size: 2rem;
     line-height: 1;
+}
+
+.info {
+    margin: 20px;
 }
