@@ -44,7 +44,7 @@ main {
 }
 .myNameIs {
     font-size: 2rem;
-    line-height: 1;
+    line-height: 0.5;
 }
 
 .info {
